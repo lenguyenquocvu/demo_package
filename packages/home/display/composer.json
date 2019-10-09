@@ -1,0 +1,14 @@
+{
+    "name": "quocvu/display",
+    "description": "Demo package",
+    "type": "LARAVEL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quocvu",
+            "email": "lenguyenquocvucd17tt10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
